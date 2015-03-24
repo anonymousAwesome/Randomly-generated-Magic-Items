@@ -1,0 +1,101 @@
+Justice
+Heroism
+Vengeance
+Glory
+Madness
+Stealth
+Deception
+Despair
+Siege
+Fury
+Wisdom
+Mercy
+Love
+Healing
+Petrification
+Starlight
+Delerium
+Desire
+Malice
+Obedience
+Peace
+Treachery
+Silence
+Destruction
+Despair
+Death
+Darkness
+Shadow
+Soul
+True Sight
+Twilight
+Dawn
+Dusk
+Life
+Conjuration
+Elements
+Incineration
+Planeswalking
+Imprisonment
+Domination
+Prophecy
+Void
+Light
+Thought
+Rage
+Hope
+Doom
+Evocation
+Retribution
+Insanity
+Destruction
+Horror
+Absorption
+Resurrection
+Spellbreaking
+Growth
+Fire
+Wind
+Lightning
+Dreaming
+the Troll
+the Angel
+the Banshee
+the Centaur
+the Demon
+the Dragon
+the Dwarf
+the Elf
+the Fairie
+the Gargoyle
+the Genie
+the Ghost
+the Ghoul
+the Giant
+the Gnome
+the Goblin
+the God
+the Gremlin
+the Gryphon
+the Homunculus
+the Lich
+the Mermaid
+the Monster
+the Ogre
+the Orc
+the Titan
+the Vampire
+the Werebeast
+the Werewolf
+the Wight
+Sundering
+Shadowbinding
+Dragonslicing
+Shieldbreaking
+Sightblinding
+Soulcutting
+Stonecutting
+Townsaving
+Wayfinding
+Woundhealing
+Soulbinding

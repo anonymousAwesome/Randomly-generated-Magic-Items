@@ -1,0 +1,6 @@
+{concrete_noun} of the {title}
+{title}'s {concrete_noun}
+{adjective} {concrete_noun}
+{concrete_noun} of {abstract_noun}
+{adjective} {concrete_noun} of {abstract_noun}
+{adjective} {concrete_noun} of the {title}

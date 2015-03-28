@@ -1,71 +1,92 @@
-Justice
-Heroism
-Vengeance
-Glory
-Madness
-Stealth
+Blindness
+Bravery
+Burning
+Burrowing
+Conjuration
+Darkness
+Dawn
+Death
 Deception
-Despair
-Siege
-Fury
-Wisdom
-Mercy
-Love
-Healing
-Petrification
-Starlight
+Defense
+Deflection
 Delerium
 Desire
+Despair
+Destruction
+Domination
+Doom
+Dragonslaying
+Dreaming
+Durability
+Dusk
+Evocation
+Fire
+Flame
+Freezing
+Fury
+Glory
+Growth
+Healing
+Heroism
+Hope
+Horror
+Ice
+Illusion
+Impact
+Imprisonment
+Incineration
+Insanity
+Invulnerability
+Invisibility
+Justice
+Life
+Light
+Lightlessness
+Lightning
+Love
+Madness
 Malice
+Mercy
+Midnight
 Obedience
 Peace
-Treachery
-Silence
-Destruction
-Despair
-Death
-Darkness
-Shadow
-Soul
-True Sight
-Twilight
-Dawn
-Dusk
-Life
-Conjuration
-Elements
-Incineration
+Petrification
+Piercing
 Planeswalking
-Imprisonment
-Domination
 Prophecy
-Void
-Light
-Thought
 Rage
-Hope
-Doom
-Evocation
-Retribution
-Insanity
-Destruction
-Horror
-Absorption
 Resurrection
+Retribution
+Seeking
+Shadow
+Shadowbinding
+Shattering
+Shieldbreaking
+Shielding
+Shocking
+Siege
+Sightblinding
+Silence
+Smiting
+Solidity
+Soul
+Soulbinding
+Soulcutting
 Spellbreaking
-Growth
-Fire
-Wind
-Lightning
-Dreaming
-the Troll
+Starlight
+Stealth
+Stonecutting
+Striking
+Sundering
 the Angel
 the Banshee
 the Centaur
 the Demon
+the Desert
 the Dragon
 the Dwarf
 the Elf
+the Elements
 the Fairie
 the Gargoyle
 the Genie
@@ -84,18 +105,23 @@ the Monster
 the Ogre
 the Orc
 the Titan
+the Troll
 the Vampire
 the Werebeast
 the Werewolf
 the Wight
-Sundering
-Shadowbinding
-Dragonslicing
-Shieldbreaking
-Sightblinding
-Soulcutting
-Stonecutting
+Thought
 Townsaving
+Treachery
+True Sight
+Twilight
+Valor
+Vengeance
+Void
+Warding
 Wayfinding
+Weightlessness
+Wind
+Winter
+Wisdom
 Woundhealing
-Soulbinding

@@ -1,7 +1,13 @@
+Acrobatics
+Balance
+Binding
 Blindness
 Bravery
 Burning
 Burrowing
+Calm
+Chaos
+Clairvoyance
 Conjuration
 Darkness
 Dawn
@@ -13,18 +19,24 @@ Delerium
 Desire
 Despair
 Destruction
+Disguise
 Domination
 Doom
 Dragonslaying
 Dreaming
 Durability
 Dusk
+Enlightenment
 Evocation
+Escape
 Fire
 Flame
+Force
 Freezing
 Fury
+Giantkin
 Glory
+Grandstanding
 Growth
 Healing
 Heroism
@@ -36,28 +48,43 @@ Impact
 Imprisonment
 Incineration
 Insanity
-Invulnerability
+Inspiration
+Invigoration
 Invisibility
+Invulnerability
 Justice
+Ki
 Life
 Light
 Lightlessness
 Lightning
 Love
+Loyalty
+Luck
 Madness
 Malice
 Mercy
 Midnight
+Mindfulness
+Mud
+Negative-energy
 Obedience
 Peace
+Petitioning
 Petrification
 Piercing
 Planeswalking
+Positive-energy
 Prophecy
+Purity
 Rage
+Refreshment
+Rending
+Resolve
 Resurrection
 Retribution
 Seeking
+Serenity
 Shadow
 Shadowbinding
 Shattering
@@ -78,12 +105,20 @@ Stealth
 Stonecutting
 Striking
 Sundering
+Telepathy
+Terror
 the Angel
 the Banshee
+the Brute
 the Centaur
+the Champion
+the Colossus
+the Crypt
+the Damned
 the Demon
 the Desert
 the Dragon
+the Dunes
 the Dwarf
 the Elf
 the Elements
@@ -100,27 +135,42 @@ the Gremlin
 the Gryphon
 the Homunculus
 the Lich
+the Master
 the Mermaid
 the Monster
+the Oaf
+the Oaks
 the Ogre
 the Orc
+the Sea
+the Serpent
+the Seven-pointed Star
+the Swamp
 the Titan
 the Troll
+the Unseelie
 the Vampire
 the Werebeast
 the Werewolf
 the Wight
+the Winds
 Thought
+Time
 Townsaving
+Transformation
 Treachery
+Triumph
 True Sight
 Twilight
 Valor
 Vengeance
+Vermin
+Vigor
 Void
 Warding
 Wayfinding
 Weightlessness
+Whispers
 Wind
 Winter
 Wisdom
